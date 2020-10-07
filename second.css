@@ -1,0 +1,55 @@
+/* body{
+  /* margin: 0;
+  padding: 0;
+  align-content: center; */
+  /* background-image: url("four.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin:100px 0px; padding:0px;
+  text-align:center;
+  align:center;
+  align-items: center;
+} */
+
+/* .total{ */
+  /* position: relative; */
+  /* top: 100px;
+  left: 450px;
+  right: 400px; */
+  /* position: relative;
+  top: 10px;
+  left:auto;
+  right: auto; */
+  /* height: 500px;
+  width:500px; */
+  /* text-align: center;
+  align-items: center;
+  padding: 100px;
+  /* opacity: 0.5; */
+  /* font-size: 20px; */
+
+  /* height: 500px;
+  /* width:500px; * */
+  body {
+  margin:50px 0px; padding:0px;
+  text-align:center;
+  align:center;
+  align-items: center;
+  background-image: url("four.jpg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  .total{
+  position: relative;
+  /* position: absolute; */
+  top: 100px;
+  left: auto;
+  right: auto;
+  padding: 100px;
+
+  /* height: 500px;
+  width:500px; */
+  }
+.submit1{
+    padding-top: 20px
+}
